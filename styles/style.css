@@ -47,8 +47,8 @@ footer {
 
 
 .image-text {
-    position: absolute;
-    top: 140%;
+/*     position: absolute; */
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
