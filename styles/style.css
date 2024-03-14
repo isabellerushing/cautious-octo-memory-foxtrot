@@ -7,6 +7,10 @@ body {
   font-size: 25px;
 }
 
+#color {
+    background-color: rgb(37, 150, 190);
+}
+
 #pic1 {
     max-height: 40px; 
     margin-right: 10px;
